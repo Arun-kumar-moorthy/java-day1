@@ -1,14 +1,9 @@
-# java-day1
-In this task, I installed OpenJDK, set JAVA_HOME, verified Java installation, 
-created a folder structure, wrote a simple Java program, compiled and executed it.
+package learning;
+public class Partice{
+	public static void main (String []args) {
+	System.out.println("hello java");
+	
+	}
 
-## Contents
-- Hello.java
-- Screenshots of output
-- Notes
-
-## Output
-Hello Java
-
-## Author
-Arun Kumar
+		
+}
